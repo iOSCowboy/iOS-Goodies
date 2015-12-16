@@ -30,6 +30,7 @@
 
 * [Interface Animation. The Force of Motion](http://tubikstudio.com/interface-animation-the-force-of-motion/), by [@MYalanska](https://twitter.com/MYalanska)
 * [Designing Facebook Collage](https://medium.com/facebook-design/designing-facebook-collage-304436764ca8#.hw847keah), by [@ChrisTauziet](https://twitter.com/ChrisTauziet)
+* [Improving the accessibility on Spotify's iOS client](https://labs.spotify.com/2015/11/11/improving-the-accessibility-on-our-ios-client/), by [@iOSCowboy](http:s//twitter.com/iOSCowboy)
 
 
 **Videos**
